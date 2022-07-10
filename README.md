@@ -1,0 +1,2 @@
+# estate-localisation
+This is the language translation repo for the estate management system which will contain different types of languages to match different types of users. Users fluent in a certain language are allowed and welcome to contribute on this repo. The language should be written in this format and saved as json i.e abbreviationName_full language name e.g if you are translating to french then it should be written as  Fr_French and saved as json format. 
